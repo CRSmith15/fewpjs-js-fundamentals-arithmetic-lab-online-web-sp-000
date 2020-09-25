@@ -6,3 +6,6 @@ multiply
 
 let random = Math.floor(Math.random() * 10) + 1
 random
+
+let mod = (8 % 2)
+mod
