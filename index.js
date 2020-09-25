@@ -9,3 +9,5 @@ random
 
 let mod = (20 % 8)
 mod
+
+let max = Math.max(5, 10, 15, 20)
