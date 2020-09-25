@@ -7,5 +7,5 @@ multiply
 let random = Math.floor(Math.random() * 10) + 1
 random
 
-let mod = (8 % 2)
+let mod = (20 % 8)
 mod
